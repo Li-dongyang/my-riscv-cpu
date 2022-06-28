@@ -1,6 +1,6 @@
 # Architecture 2022Spring Fudan
 
-这是2022年春季复旦大学计算机组成与体系结构(H)的lab。
+这是2022年春季复旦大学计算机组成与体系结构(H)的lab。在此感谢课程团队带来的盛宴！
 
 课程网站：https://fducslg.github.io/Arch-2022Spring-FDU/
 
