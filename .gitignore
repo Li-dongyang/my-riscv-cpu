@@ -1,0 +1,5 @@
+/gtkwave
+/NEMU
+/scripts
+**/build/
+**/.vscode/
